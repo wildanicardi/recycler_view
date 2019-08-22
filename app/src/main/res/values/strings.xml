@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="description">description</string>
+    <string name="favorite">favorite</string>
+    <string name="pemain">Pemain Bola</string>
+    <string name="detail">detail</string>
+    <string name="icon">icon</string>
+    <string name="content_name">Mesut Ozil</string>
+    <string name="content_description">Ozil diketahui kerap membaca surat di Al-Quran sebelum pertandinnya.
+        "Saya selalu melakukan itu sebelum saya pergi (di lapangan).
+        Saya berdoa dan rekan tim saya tahu bahwa mereka tidak dapat
+        berbicara dengan saya selama periode singkat ini".</string>
+    <string name="ali">Muhammad ALi WIldan</string>
+</resources>
